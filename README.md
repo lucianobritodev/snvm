@@ -23,3 +23,4 @@ Set-Alias snvm "C:\Users\$env:USERNAME\snvm.ps1"
 ```powershell
 snvm list
 ```
+<img width="497" height="290" alt="Image" src="https://github.com/user-attachments/assets/d232316b-1418-4fef-909b-8d1040f54e80" />
